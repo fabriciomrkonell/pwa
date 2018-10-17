@@ -40,7 +40,19 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "api",
+      "patterns": [
+        "https:\\/\\/www\\.techiediaries\\.com\\/api\\/.*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 100,
+      "maxAge": 259200000,
+      "timeoutMs": 60000,
+      "version": 1
+    }
+  ],
   "hashTable": {
     "https://realronchi.github.io/pwa/assets/icons/icon-1125x2436.png": "99dde982ddb9ab2c0123182b18afa3c4f2b6c4fa",
     "https://realronchi.github.io/pwa/assets/icons/icon-1242x2208.png": "9e61b9ef41a4708c69bd9080c48d8fcd602f9233",
