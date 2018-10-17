@@ -46,7 +46,7 @@
       "patterns": [
         "https:\\/\\/www\\.techiediaries\\.com\\/api\\/.*"
       ],
-      "strategy": "freshness",
+      "strategy": "performance",
       "maxSize": 100,
       "maxAge": 259200000,
       "timeoutMs": 60000,
