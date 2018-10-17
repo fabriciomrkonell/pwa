@@ -46,7 +46,7 @@
       "patterns": [
         "https:\\/\\/www\\.techiediaries\\.com\\/api\\/.*"
       ],
-      "strategy": "prefetch",
+      "strategy": "freshness",
       "maxSize": 100,
       "maxAge": 259200000,
       "timeoutMs": 1000,
