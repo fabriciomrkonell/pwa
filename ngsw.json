@@ -49,7 +49,7 @@
       "strategy": "performance",
       "maxSize": 100,
       "maxAge": 259200000,
-      "timeoutMs": 60000,
+      "timeoutMs": 1000,
       "version": 1
     }
   ],
