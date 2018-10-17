@@ -9,10 +9,10 @@
       "urls": [
         "https://realronchi.github.io/pwa/favicon.ico",
         "https://realronchi.github.io/pwa/index.html",
-        "https://realronchi.github.io/pwa/main.15b346bc4117d4b58747.js",
+        "https://realronchi.github.io/pwa/main.2095db416c64c375c324.js",
         "https://realronchi.github.io/pwa/polyfills.f6ae3e8b63939c618130.js",
         "https://realronchi.github.io/pwa/runtime.ec2944dd8b20ec099bf3.js",
-        "https://realronchi.github.io/pwa/styles.6faedebb2a0e50c4221b.css"
+        "https://realronchi.github.io/pwa/styles.4d43c17ab64a3a8a6b34.css"
       ],
       "patterns": []
     },
@@ -44,11 +44,11 @@
     "https://realronchi.github.io/pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://realronchi.github.io/pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://realronchi.github.io/pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://realronchi.github.io/pwa/index.html": "22d659d8515fc8076a0f90e9ba20eba03b581596",
-    "https://realronchi.github.io/pwa/main.15b346bc4117d4b58747.js": "8a2607a28a548cef8b6bc22a02783eb5f94276ed",
+    "https://realronchi.github.io/pwa/index.html": "b02b15df65d3b2635dab2a4223c41dbf2fd808a9",
+    "https://realronchi.github.io/pwa/main.2095db416c64c375c324.js": "e772a11be879b87925d5302beaff651d53a0a7d4",
     "https://realronchi.github.io/pwa/polyfills.f6ae3e8b63939c618130.js": "ef2035f0504b4f77eac510c33595c81a5d09e33f",
     "https://realronchi.github.io/pwa/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "https://realronchi.github.io/pwa/styles.6faedebb2a0e50c4221b.css": "8e5f6cc6fe20f982aa11b6c8ef8663ad9bb277a4"
+    "https://realronchi.github.io/pwa/styles.4d43c17ab64a3a8a6b34.css": "db33f848d12e6100e6fae9764d3d1ad48cd59d8b"
   },
   "navigationUrls": [
     {
