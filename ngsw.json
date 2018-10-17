@@ -37,16 +37,18 @@
         "https://realronchi.github.io/pwa/assets/icons/icon-750x1334.png",
         "https://realronchi.github.io/pwa/assets/icons/icon-96x96.png"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [
     {
-      "name": "api",
+      "name": "from-api",
       "patterns": [
         "https:\\/\\/www\\.techiediaries\\.com\\/api\\/.*"
       ],
-      "strategy": "freshness",
+      "strategy": "performance",
       "maxSize": 100,
       "maxAge": 259200000,
       "timeoutMs": 1000,
